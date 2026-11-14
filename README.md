@@ -8,3 +8,8 @@ I am an aspiring **Computer Science, Artificial Intelligence, and Engineering** 
 * 🎓 **Certifications:** 7x Verified IBM SkillsBuild Credentials in Artificial Intelligence, Machine Learning, Cybersecurity & Enterprise Design Thinking
 * 🚀 **Featured Work:** Check out my pinned projects below combining **Sports Data Analytics** and **AI Phishing Detection with Arduino Hardware Alerts**—with many more impactful projects on the way!
 * 🎯 **Long-Term Vision:** Committed to building my own **versatile AI system** designed to assist people and solve real-world challenges across multiple aspects of everyday life.
+* 🎓 **Verified IBM SkillsBuild Credentials:**
+  * [Getting Started with Generative AI (Credly Verified)](https://credly.com)
+  * [Cybersecurity Fundamentals (Credly Verified)](https://credly.com)
+  * [Enterprise Design Thinking Practitioner (Credly Verified)](https://credly.com)
+  * Additional Coursework: *AI in Soccer*, *Machine Learning & Data Science in IBM watsonx*, *Foundations & Applying AI*
