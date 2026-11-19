@@ -7,6 +7,9 @@ I am an aspiring **Computer Science, Artificial Intelligence, and Engineering** 
 * 🛠️ **Tech Stack:** Python (`scikit-learn`, `pandas`), C++ (Arduino), Google Colab, Tinkered 3D Circuit Studio
 * 🎓 **Certifications:** 7x Verified IBM SkillsBuild Credentials in Artificial Intelligence, Machine Learning, Cybersecurity & Enterprise Design Thinking
 * 🚀 **Featured Work:** Check out my pinned projects below combining **Sports Data Analytics** and **AI Phishing Detection with Arduino Hardware Alerts**—with many more impactful projects on the way!
+
+- 🛡️ **[Live AI Phishing URL Detector](https://ai-phishing-detector-zmzzh98wj52ty3x2cnhlyy.streamlit.app/)** — Real-time URL threat scanner built with Random Forest & Streamlit ([Source Code](https://github.com))
+
 * 🎯 **Long-Term Vision:** Committed to building my own **versatile AI system** designed to assist people and solve real-world challenges across multiple aspects of everyday life.
 * 🎓 **Verified IBM SkillsBuild Credentials:**
   * [Getting Started with Generative AI (Credly Verified)](https://credly.com)
