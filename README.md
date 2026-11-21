@@ -11,10 +11,12 @@ I am an aspiring **Computer Science, Artificial Intelligence, and Engineering** 
   * 🛡️ **[Live AI Phishing URL Detector](https://ai-phishing-detector-zmzzh98wj52ty3x2cnhlyy.streamlit.app/)** — Real-time URL threat scanner built with Random Forest & Streamlit ([Source Code](https://github.com))
   * 🧮 **[Project Euler Mathematical Programming](https://github.com)** — Algorithmic Python solutions emphasizing number theory, combinatorics, and $O(1)$ optimization
 * 🎯 **Long-Term Vision:** Committed to building practical, versatile AI systems designed to assist people and solve real-world challenges across everyday life.
-* 🏆 **Verified Technical & Coding Credentials:**
-  * [Problem Solving (Basic) Skill Certification — HackerRank Verified](https://hackerrank.com) (`ID: 2132C26CA07A`)
-  * [Python (Basic) Skill Certification — HackerRank Verified](https://hackerrank.com) (`ID: FCB6EE2D3152`)
-  * Getting Started with Generative AI *(IBM SkillsBuild — Credly Verified)*
-  * Cybersecurity Fundamentals *(IBM SkillsBuild — Credly Verified)*
-  * Enterprise Design Thinking Practitioner *(IBM SkillsBuild — Credly Verified)*
-  * Additional Coursework: *AI in Soccer*, *Machine Learning & Data Science in IBM watsonx*, *Foundations & Applying AI*
+- 🏆 **Verified Technical & Coding Credentials:**
+  - [**Problem Solving (Intermediate)** — HackerRank Verified](https://hackerrank.com) *(ID: 6052B694565D)*
+  - [**Problem Solving (Basic)** — HackerRank Verified](https://hackerrank.com) *(ID: 2132C26CA07A)*
+  - [**Python (Basic)** — HackerRank Verified](https://hackerrank.com) *(ID: FCB6EE2D3152)*
+  - [**Getting Started with Generative AI**](https://credly.com) *(IBM SkillsBuild — Credly Verified)*
+  - [**Cybersecurity Fundamentals**](https://credly.com) *(IBM SkillsBuild — Credly Verified)*
+  - [**Enterprise Design Thinking Practitioner**](https://credly.com) *(IBM SkillsBuild — Credly Verified)*
+  - Additional Coursework: *AI in Soccer*, *Machine Learning & Data Science in IBM watsonx*, *Foundations & Applying AI*
+
