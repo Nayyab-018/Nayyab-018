@@ -10,6 +10,8 @@ I am an aspiring **Computer Science, Artificial Intelligence, and Engineering** 
   * 🌐 **[Interactive Portfolio Website](https://nayyab-018appio-zcbfof4ykq3fiwksgczbc3.streamlit.app/)** — Full showcase of live apps, projects, academic marks, and verified credentials
   * 🛡️ **[Live AI Phishing URL Detector](https://ai-phishing-detector-zmzzh98wj52ty3x2cnhlyy.streamlit.app/)** — Real-time URL threat scanner built with Random Forest & Streamlit ([Source Code](https://github.com))
   * 🧮 **[Project Euler Mathematical Programming](https://github.com)** — Algorithmic Python solutions emphasizing number theory, combinatorics, and $O(1)$ optimization
+  - 🔋 [**AI Smart Battery Management System (BMS) & Charging Predictor**](https://github.com) — Embedded Arduino C++ thermal/CC-CV firmware + Random Forest ML charging-time predictor ([**Live Streamlit App**](https://ai-smart-bms-charging-predictor-ixudssaqt27j42yvsxsudw.streamlit.app/)).
+
 * 🎯 **Long-Term Vision:** Committed to building practical, versatile AI systems designed to assist people and solve real-world challenges across everyday life.
 - 🏆 **Verified Technical & Coding Credentials:**
   - [**Problem Solving (Intermediate)** — HackerRank Verified](https://www.hackerrank.com/certificates/6052b694565d) *(ID: 6052B694565D)*
