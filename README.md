@@ -15,8 +15,8 @@ I am an aspiring **Computer Science, Artificial Intelligence, and Engineering** 
   - [**Problem Solving (Intermediate)** — HackerRank Verified](https://www.hackerrank.com/certificates/6052b694565d) *(ID: 6052B694565D)*
   - [**Problem Solving (Basic)** — HackerRank Verified](https://www.hackerrank.com/certificates/2132c26ca07a) *(ID: 2132C26CA07A)*
   - [**Python (Basic)** — HackerRank Verified](https://www.hackerrank.com/certificates/fcb6ee2d3152) *(ID: FCB6EE2D3152)*
-  - [**Getting Started with Generative AI**](https://credly.com) *(IBM SkillsBuild — Credly Verified)*
-  - [**Cybersecurity Fundamentals**](https://credly.com) *(IBM SkillsBuild — Credly Verified)*
-  - [**Enterprise Design Thinking Practitioner**](https://credly.com) *(IBM SkillsBuild — Credly Verified)*
+  - [**Getting Started with Generative AI**]( https://www.credly.com/go/AIQRte50) *(IBM SkillsBuild — Credly Verified)*
+  - [**Cybersecurity Fundamentals**](https://www.credly.com/badges/6baf9b71-e18e-4b7f-8887-df5f1f712320) *(IBM SkillsBuild — Credly Verified)*
+  - [**Enterprise Design Thinking Practitioner**](https://www.credly.com/go/Sx9RCkbk) *(IBM SkillsBuild — Credly Verified)*
   - Additional Coursework: *AI in Soccer*, *Machine Learning & Data Science in IBM watsonx*, *Foundations & Applying AI*
 
