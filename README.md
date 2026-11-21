@@ -12,9 +12,9 @@ I am an aspiring **Computer Science, Artificial Intelligence, and Engineering** 
   * 🧮 **[Project Euler Mathematical Programming](https://github.com)** — Algorithmic Python solutions emphasizing number theory, combinatorics, and $O(1)$ optimization
 * 🎯 **Long-Term Vision:** Committed to building practical, versatile AI systems designed to assist people and solve real-world challenges across everyday life.
 - 🏆 **Verified Technical & Coding Credentials:**
-  - [**Problem Solving (Intermediate)** — HackerRank Verified](https://hackerrank.com) *(ID: 6052B694565D)*
-  - [**Problem Solving (Basic)** — HackerRank Verified](https://hackerrank.com) *(ID: 2132C26CA07A)*
-  - [**Python (Basic)** — HackerRank Verified](https://hackerrank.com) *(ID: FCB6EE2D3152)*
+  - [**Problem Solving (Intermediate)** — HackerRank Verified](https://www.hackerrank.com/certificates/6052b694565d) *(ID: 6052B694565D)*
+  - [**Problem Solving (Basic)** — HackerRank Verified](https://www.hackerrank.com/certificates/2132c26ca07a) *(ID: 2132C26CA07A)*
+  - [**Python (Basic)** — HackerRank Verified](https://www.hackerrank.com/certificates/fcb6ee2d3152) *(ID: FCB6EE2D3152)*
   - [**Getting Started with Generative AI**](https://credly.com) *(IBM SkillsBuild — Credly Verified)*
   - [**Cybersecurity Fundamentals**](https://credly.com) *(IBM SkillsBuild — Credly Verified)*
   - [**Enterprise Design Thinking Practitioner**](https://credly.com) *(IBM SkillsBuild — Credly Verified)*
