@@ -1,24 +1,43 @@
-### Hi there, I'm Nayyab Faisal 👋
+### Hi, I'm Nayyab Faisal 👋
+**Aspiring Computer Science & AI Researcher | Cyber-Physical Systems & Algorithmic Optimization**
 
-I am an aspiring **Computer Science, Artificial Intelligence, and Engineering** undergraduate student from Pakistan with a strong foundation in Pre-Engineering mathematics and hands-on technical development.
+Focused on bridging physical hardware constraints with machine learning, interpretable AI systems, embedded firmware, and mathematically optimized algorithms.
 
-* 💻 **Currently Building:** Exploring algorithmic mathematics via **Project Euler**, **Python automation**, and real-time **AI/ML systems** across core domains of CS and AI.
-* 🤖 **Focus Areas:** Machine Learning, Generative AI, Cybersecurity & Cyber-Physical Systems
-* 🛠️ **Tech Stack:** Python (`scikit-learn`, `PyTorch`, `pandas`, `Streamlit`), C++ (Arduino), Google Colab, Tinkercad 3D Circuit Studio
-* 🎓 **Certifications:** 2x HackerRank Verified Coding Certifications & 7x IBM SkillsBuild Credentials in AI, Machine Learning, Cybersecurity & Enterprise Design Thinking
-* 🚀 **Featured Work:** Explore my interactive portfolio and pinned projects combining **Mathematical Programming**, **Sports Data Analytics**, and **AI Phishing Detection with Arduino Hardware Alerts**:
-  * 🌐 **[Interactive Portfolio Website](https://nayyab-018appio-zcbfof4ykq3fiwksgczbc3.streamlit.app/)** — Full showcase of live apps, projects, academic marks, and verified credentials
-  * 🛡️ **[Live AI Phishing URL Detector](https://ai-phishing-detector-zmzzh98wj52ty3x2cnhlyy.streamlit.app/)** — Real-time URL threat scanner built with Random Forest & Streamlit ([Source Code](https://github.com))
-  * 🧮 **[Project Euler Mathematical Programming](https://github.com)** — Algorithmic Python solutions emphasizing number theory, combinatorics, and $O(1)$ optimization
-  - 🔋 [**AI Smart Battery Management System (BMS) & Charging Predictor**](https://github.com) — Embedded Arduino C++ thermal/CC-CV firmware + Random Forest ML charging-time predictor ([**Live Streamlit App**](https://ai-smart-bms-charging-predictor-ixudssaqt27j42yvsxsudw.streamlit.app/)).
+🌐 **[Explore My Interactive Research & Project Portfolio →](https://share.streamlit.io/user/nayyab-018)**
 
-* 🎯 **Long-Term Vision:** Committed to building practical, versatile AI systems designed to assist people and solve real-world challenges across everyday life.
-- 🏆 **Verified Technical & Coding Credentials:**
-  - [**Problem Solving (Intermediate)** — HackerRank Verified](https://www.hackerrank.com/certificates/6052b694565d) *(ID: 6052B694565D)*
-  - [**Problem Solving (Basic)** — HackerRank Verified](https://www.hackerrank.com/certificates/2132c26ca07a) *(ID: 2132C26CA07A)*
-  - [**Python (Basic)** — HackerRank Verified](https://www.hackerrank.com/certificates/fcb6ee2d3152) *(ID: FCB6EE2D3152)*
-  - [**Getting Started with Generative AI**]( https://www.credly.com/go/AIQRte50) *(IBM SkillsBuild — Credly Verified)*
-  - [**Cybersecurity Fundamentals**](https://www.credly.com/badges/6baf9b71-e18e-4b7f-8887-df5f1f712320) *(IBM SkillsBuild — Credly Verified)*
-  - [**Enterprise Design Thinking Practitioner**](https://www.credly.com/go/Sx9RCkbk) *(IBM SkillsBuild — Credly Verified)*
-  - Additional Coursework: *AI in Soccer*, *Machine Learning & Data Science in IBM watsonx*, *Foundations & Applying AI*
+---
 
+### 🔬 Selected Research & Engineering Projects
+
+* **1. AI Smart Battery Management System (BMS) & Charging Predictor**
+  * *Methodology:* Embedded C++ (Arduino Uno) firmware with CC-CV charging stages, 10kΩ NTC thermistor thermal throttling (>42.0°C), and a Random Forest Regressor trained on 4,000 physics-informed cycles.
+  * *Tech Stack:* `C++ (Arduino)`, `Python`, `scikit-learn`, `NumPy`, `Pandas`, `Streamlit`
+  * *Links:* [**Source Code**](https://github.com/Nayyab-018/AI-Smart-BMS-Charging-Predictor) | [**Live App**](https://nayyab-018appio-zcbfof4ykq3fiwksgczbc3.streamlit.app/)
+
+* **2. Real-Time AI Phishing URL Threat Detector**
+  * *Methodology:* Domain entropy, special-character ratio, and structural URL heuristic extraction feeding a sub-second Random Forest threat classifier.
+  * *Tech Stack:* `Python`, `scikit-learn`, `Pandas`, `Streamlit`
+  * *Links:* [**Live Phishing Detector App**](https://ai-phishing-detector-zmzzh98wj52ty3x2cnhlyy.streamlit.app/) | [**GitHub Repository**](https://github.com/Nayyab-018/AI-Phishing-Detector)
+
+* **3. Deep Learning Image Classifier (PyTorch CNN)**
+  * *Methodology:* Custom CNN built in PyTorch (Conv2d blocks, ReLU, MaxPool2d, Dropout) evaluated on the Fashion-MNIST dataset using Adam and Cross-Entropy Loss.
+  * *Tech Stack:* `PyTorch`, `torchvision`, `Matplotlib`, `Google Colab`
+  * *Links:* [**Source Code & Training Curves**](https://github.com/Nayyab-018/PyTorch-CNN-Image-Classifier)
+
+* **4. Algorithmic Mathematics & Complexity Optimization (Project Euler)**
+  * *Methodology:* Closed-form mathematical proofs and recurrence optimizations reducing high-complexity algorithms to $O(1)$ and $O(N)$ runtime.
+  * *Tech Stack:* `Python`, Asymptotic Complexity Analysis, Number Theory & Combinatorics
+  * *Links:* [**Source Code & Mathematical Proofs**](https://github.com/Nayyab-018/Project-Euler-Mathematical-Programming)
+
+---
+
+### 🛠️ Technical Stack
+* **Programming Languages:** Python, C++ (Embedded/Arduino)
+* **AI & Data Science:** PyTorch, scikit-learn, Pandas, NumPy, Matplotlib, Streamlit
+* **Core Focus Areas:** Machine Learning, Deep Learning (CNNs), Cyber-Physical Systems, Algorithmic Optimization
+
+---
+
+### 🏆 Verified Credentials & Certifications
+* **HackerRank:** Problem Solving (Intermediate & Basic), Python (Basic)
+* **IBM SkillsBuild (Credly Verified):** Cybersecurity Fundamentals, Getting Started with Generative AI, Enterprise Design Thinking Practitioner, plus coursework in AI/ML and watsonx.
