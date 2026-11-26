@@ -29,6 +29,11 @@ Focused on bridging physical hardware constraints with machine learning, interpr
   * *Tech Stack:* `Python`, Asymptotic Complexity Analysis, Number Theory & Combinatorics
   * *Links:* [**Source Code & Mathematical Proofs**](https://github.com/Nayyab-018/Project-Euler-Mathematical-Programming)
 
+- **5. Edge-AI Smart Solar Microgrid & Autonomous Load Balancer**
+  - *Methodology:* Hardware-in-the-loop (HIL) cyber-physical system combining ATmega328P C++ priority load-shedding firmware with a Random Forest grid-state classifier, Arrhenius battery degradation regressor, and constrained greedy power scheduler.
+  - *Tech Stack:* C++ (Arduino/Wokwi), Python, scikit-learn, NumPy, Pandas, Matplotlib
+  - *Links:* **[Source Code & Notebook](https://github.com/Nayyab-018/edge-ai-smart-microgrid)** | **[Live Circuit Simulation](https://wokwi.com/projects/481758745417832449)**
+
 ---
 
 ### 🛠️ Technical Stack
